@@ -1,7 +1,7 @@
 import testCommand from "./commands/templateCommand";
 
 export let config = {
-    "token": "Bot NjM2NjgyNDY5ODczMjg3MTk4.XbDTDQ.tikIPfgo5Pk6r1llQlrADH3vpdk",
+    "token": "NjM2NjgyNDY5ODczMjg3MTk4.XbHqzA.8cVCm-obrC5owfngvta2iAtOCqQ",
     "prefix": "?",
     "commands": [
         "templateCommand",

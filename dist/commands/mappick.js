@@ -24,9 +24,9 @@ class templateCommand {
         return __awaiter(this, void 0, void 0, function* () {
             let mapEmbed = new Discord.RichEmbed()
                 .setTitle("Choose a map! Highest votes wins!")
-                .setDescription("React with an 🛥 to pick riverside \n React with an 🌊 to pick Oceanside \n React with an 🆒 to pick Cliffside \n React with an ⛰ to pick Mountain Side \n");
+                .setDescription("React with an 🇷 to pick Riverside \n React with an  to pick Oceanside \n React with an 🆒 to pick Cliffside \n React with an ⛰ to pick Mountain Side \n");
         });
     }
 }
 exports.default = templateCommand;
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFwcGljay5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9jb21tYW5kcy9tYXBwaWNrLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7O0FBQUEsc0NBQXNDO0FBR3RDLE1BQXFCLGVBQWU7SUFBcEM7UUFFcUIsYUFBUSxHQUFHLGlCQUFpQixDQUFBO0lBa0JqRCxDQUFDO0lBaEJHLElBQUk7UUFDQSxPQUFPLCtEQUErRCxDQUFDO0lBQzNFLENBQUM7SUFFRCxhQUFhLENBQUMsT0FBZTtRQUN6QixPQUFPLE9BQU8sS0FBSSxJQUFJLENBQUMsUUFBUSxDQUFBO0lBQ25DLENBQUM7SUFFSyxVQUFVLENBQUMsSUFBYyxFQUFFLFNBQTBCLEVBQUUsTUFBc0I7O1lBRS9FLElBQUksUUFBUSxHQUFHLElBQUksT0FBTyxDQUFDLFNBQVMsRUFBRTtpQkFDakMsUUFBUSxDQUFDLG1DQUFtQyxDQUFDO2lCQUM3QyxjQUFjLENBQUMsNEpBQTRKLENBQUMsQ0FBQTtRQUdyTCxDQUFDO0tBQUE7Q0FDSjtBQXBCRCxrQ0FvQkMifQ==
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFwcGljay5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9jb21tYW5kcy9tYXBwaWNrLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7O0FBQUEsc0NBQXNDO0FBR3RDLE1BQXFCLGVBQWU7SUFBcEM7UUFFcUIsYUFBUSxHQUFHLGlCQUFpQixDQUFBO0lBa0JqRCxDQUFDO0lBaEJHLElBQUk7UUFDQSxPQUFPLCtEQUErRCxDQUFDO0lBQzNFLENBQUM7SUFFRCxhQUFhLENBQUMsT0FBZTtRQUN6QixPQUFPLE9BQU8sS0FBSSxJQUFJLENBQUMsUUFBUSxDQUFBO0lBQ25DLENBQUM7SUFFSyxVQUFVLENBQUMsSUFBYyxFQUFFLFNBQTBCLEVBQUUsTUFBc0I7O1lBRS9FLElBQUksUUFBUSxHQUFHLElBQUksT0FBTyxDQUFDLFNBQVMsRUFBRTtpQkFDakMsUUFBUSxDQUFDLG1DQUFtQyxDQUFDO2lCQUM3QyxjQUFjLENBQUMsMEpBQTBKLENBQUMsQ0FBQTtRQUduTCxDQUFDO0tBQUE7Q0FDSjtBQXBCRCxrQ0FvQkMifQ==
